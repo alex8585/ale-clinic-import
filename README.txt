@@ -1,0 +1,1 @@
+WordPress plugin that imports clinic addresses from xlsx file and shows in frontend.
